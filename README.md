@@ -3,11 +3,13 @@ I'm Pooja, an automation nerd and open source enthusiast. I love brainstorming a
 Driven by curiosity to learn & share new things every day, I pen them, open-source, record tutorials and talk about them at open conferences, some of the glimpses can be found here:
 
 - **Github:** you know it now
+- **Project i'm most excited about:** [Alice/Shield](https://github.com/p00j4/alice) - A bot which solves human communication problems, enabled Continuos Integration
 - **YouTube:** [PoojaShahQAgirl/playlists](https://www.youtube.com/c/PoojaShahQAgirl/playlists)
 - **Medium:**  [@TechGirlPooja](https://medium.com/@TechGirlPooja)
 - **Twitter:** TechGirlPooja(https://www.twitter.com/TechGirlPooja)
 - **Web-page:** [p00j4.github](p00j4.github.io)
 - **Linked-in:** [Techgirlpooja](https://www.linkedin.com/in/techgirlpooja)
+
 
 ### Speaking Engagements 🎤
 - Selenium Conference - India, London, Chicago Editions 
