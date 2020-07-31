@@ -23,9 +23,10 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 - Appium Conf - growing community for Appium (open-sourced) project - India [2019]
 - RootConf India [2018]
 
-### Stand by
-These are the events, I highly recommend (because they are really good)
-- NullCon  - community events and workshops for spreading awareness on security. 
+### Stand up with
+Few things I highly recommend (because they are really good)
+- [Selectors Hub](https://www.selectorshub.com/) - one stop solution for easier life in UI Automation
+- [NullCon](https://null.community/chapters/1-bangalore)  - community events and workshops for spreading awareness on security. 
 - VodQA Shots by ThoughWorks 
 
 #BLM #LifeMatters 
