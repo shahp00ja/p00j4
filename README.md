@@ -7,7 +7,7 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 - **YouTube:** [PoojaShahQAgirl/playlists](https://www.youtube.com/c/PoojaShahQAgirl/playlists)
 - **Medium:**  [@TechGirlPooja](https://medium.com/@TechGirlPooja)
 - **Twitter:** TechGirlPooja(https://www.twitter.com/TechGirlPooja)
-- **Web-page:** [p00j4.github](p00j4.github.io) 
+- **Portfolio:** [p00j4.github](p00j4.github.io) 
 
 
 ### Speaking Engagements 🎤
@@ -30,9 +30,9 @@ Some of the work I highly recommend (because they are really good)
 
 #BLM #LifeMatters 
 
-Last but not the least:
+### Last but not the least
 Do you related with this?
-[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/6470509/89035837-37cdb680-d359-11ea-8775-102c8ef866b8.png)](https://youtu.be/5DtnB2MKMkg?t=164 "Automation beyond tests")
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/6470509/89036423-48326100-d35a-11ea-84d0-d2e5526af183.png)](https://youtu.be/5DtnB2MKMkg?t=164 "Automation beyond tests")
 <!--
 **p00j4/p00j4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
