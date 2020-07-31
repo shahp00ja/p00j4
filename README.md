@@ -4,8 +4,8 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 
 - **Github:** you know it now
 - **Project i'm most excited about:** [Alice/Shield](https://github.com/p00j4/alice) - A bot which solves human [communication problems](https://youtu.be/5DtnB2MKMkg?t=163), enabled Continuos Integration
-- **YouTube:** [PoojaShahQAgirl/playlists](https://www.youtube.com/c/PoojaShahQAgirl/playlists)
 - **Medium:**  [@TechGirlPooja](https://medium.com/@TechGirlPooja) | **Twitter:** [TechGirlPooja](https://www.twitter.com/TechGirlPooja)
+- **YouTube:** [PoojaShahQAgirl](https://www.youtube.com/c/PoojaShahQAgirl/playlists)
 - **Web-site** [p00j4.github](p00j4.github.io)
 
 
