@@ -33,6 +33,14 @@ Some of the work I highly recommend (because they are really good)
 ### Last but not the least
 Do you related with this?
 [![IMAGE ALT TEXT](https://user-images.githubusercontent.com/6470509/89036423-48326100-d35a-11ea-84d0-d2e5526af183.png)](https://youtu.be/5DtnB2MKMkg?t=164 "Automation beyond tests")
+
+-------------
+
+### If you haven't watched the following, you are missing out big
+- [Konkan Kanya Band](https://www.youtube.com/channel/UCKqysqREYJzPMlK5GHduySQ)
+- [YogaGirlHeena](https://www.youtube.com/c/YogaGirlHeena)
+- [Indian Raga](https://www.youtube.com/user/indianragaproject)
+- [One Nation by Amit Trivedi team](https://www.youtube.com/watch?v=PFW6fHmYcdM)
 <!--
 **p00j4/p00j4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
