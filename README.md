@@ -40,7 +40,7 @@ Do you related with this?
 - [Konkan Kanya Band](https://www.youtube.com/channel/UCKqysqREYJzPMlK5GHduySQ)
 - [YogaGirlHeena](https://www.youtube.com/c/YogaGirlHeena)
 - [Indian Raga](https://www.youtube.com/user/indianragaproject)
-- [One Nation by Amit Trivedi team](https://www.youtube.com/watch?v=PFW6fHmYcdM)
+- [One Nation by Amit Trivedi crew](https://www.youtube.com/watch?v=PFW6fHmYcdM)
 <!--
 **p00j4/p00j4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
