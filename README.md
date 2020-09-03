@@ -15,7 +15,7 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 - Agile Testing Days - Germany
 - Agile India
 
-### Contributing to Organising Events ✍️
+### Contribution to Organising Conference ✍️
 - Selenium Conference - India [2020, 2018, 2016]
 - Appium Conf - growing community for Appium (open-sourced) project - India [2019]
 - RootConf India [2018]
