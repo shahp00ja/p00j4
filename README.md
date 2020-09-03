@@ -25,7 +25,7 @@ Some of the work I highly recommend (because they are really good)
 - [Selectors Hub](https://www.selectorshub.com/) - one stop solution for easier life in UI Automation
 - [NullCon](https://null.community/chapters/1-bangalore)  - community events and workshops for spreading awareness on security. 
 
-### Fan of
+### Recommend 
 - People/Community who make awesome libraries/learnings available for **FREE** - [HumbleFool](https://twitter.com/harsha_s), [David Malan](https://twitter.com/davidjmalan), [Simon Stewart](https://twitter.com/shs96c) and all Selenium Committers, [Jason Huggins](https://twitter.com/hugs), [Jonathan Lipps](https://twitter.com/jlipps) and all Appium committers, **VodQA** by ThoughtWorks, [Test Automation University](https://testautomationu.applitools.com/), [Alan Richardson](https://twitter.com/eviltester), [Lisi Hocke](https://twitter.com/lisihocke), [Maaret Pyhäjärvi](https://twitter.com/maaretp), [TestProject](https://testproject.io/), your_name_can_come_here
 
 #BLM #LifeMatters 
