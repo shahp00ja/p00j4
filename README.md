@@ -27,7 +27,7 @@ Some of the work I highly recommend (because they are really good)
 - VodQA Shots by ThoughtWorks 
 
 ### Fan of
-- People/Community who make awesome learnings available for FREE - [HumbleFool](https://twitter.com/harsha_s), [David Malan](https://twitter.com/davidjmalan),  [Alan Richardson](https://twitter.com/eviltester), [Lisi Hocke](https://twitter.com/lisihocke), [Maaret Pyhäjärvi](https://twitter.com/maaretp), [TestProject](https://testproject.io/), Your_name_can_come_here
+- People/Community who make awesome learnings available for FREE - [HumbleFool](https://twitter.com/harsha_s), [David Malan](https://twitter.com/davidjmalan),   [Test Automation University](https://testautomationu.applitools.com/), [Alan Richardson](https://twitter.com/eviltester), [Lisi Hocke](https://twitter.com/lisihocke), [Maaret Pyhäjärvi](https://twitter.com/maaretp), [TestProject](https://testproject.io/), your_name_can_come_here
 
 #BLM #LifeMatters 
 
