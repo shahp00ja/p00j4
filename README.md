@@ -25,6 +25,7 @@ Some of the work I highly recommend (because they are really good)
 - [Selectors Hub](https://www.selectorshub.com/) - one stop solution for easier life in UI Automation
 - [NullCon](https://null.community/chapters/1-bangalore)  - community events and workshops for spreading awareness on security. 
 - VodQA Shots by ThoughWorks 
+- People who make awesome teachings available for FREE - [HumbleFool](https://twitter.com/harsha_s), [David Malan](https://twitter.com/davidjmalan),  [Alan Richardson](https://twitter.com/eviltester), [Lisi Hocke](https://twitter.com/lisihocke), [[Maaret Pyhäjärvi](https://twitter.com/maaretp), Your_name_can_come_here
 
 #BLM #LifeMatters 
 
