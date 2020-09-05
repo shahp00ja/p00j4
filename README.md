@@ -5,19 +5,20 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 - **I'm most excited** about: [Alice/Shield](https://github.com/p00j4/alice) - A bot which solves human [communication problems](https://youtu.be/5DtnB2MKMkg?t=163), and shields from buggy code getting merged with enabling **Continuos Integration**
 - **Medium:**  [@TechGirlPooja](https://medium.com/@TechGirlPooja) | **Twitter:** [TechGirlPooja](https://www.twitter.com/TechGirlPooja)
 - **YouTube:** [PoojaShahQAgirl](https://www.youtube.com/c/PoojaShahQAgirl/playlists)
-- **Web-site** [p00j4.github](p00j4.github.io)
+- **Web-site** [p00j4](https://p00j4.github.io)
 
 
 ### Speaking Engagements 🎤
 - Selenium Conference - India, London, Chicago Editions 
-- RootConf by HasGeek (Both spoke and contributed to organising)
+- RootConf by HasGeek - Bengaluru
 - European Testing Conf - Amsterdam
 - Agile Testing Days - Germany
-- Agile India
+- Agile India - Bengaluru
+- STeP-IN forum 
 
-### Contribution to Organising Conference ✍️
+### Contribution to Organising and Community building✍️
 - Selenium Conference - India [2020, 2018, 2016]
-- Appium Conf - growing community for Appium (open-sourced) project - India [2019]
+- Appium Conf - India [2019]
 - RootConf India [2018]
 
 ### Stand up with 🙌
