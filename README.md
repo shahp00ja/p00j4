@@ -2,7 +2,7 @@
 I'm Pooja, an automation nerd and open source enthusiast. I love brainstorming and implementing crazy ideas to figure out ways to improve the product quality. Having a blend of dev, qa & devops mindset, I strives to bridge the gaps between all the teams to attain the best results.
 Driven by curiosity to learn & share new things every day, I pen them, open-source, record tutorials and talk about them at open conferences, some of the glimpses can be found here:
 
-- **I'm most excited** about: [Alice/Shield](https://github.com/p00j4/alice) - A bot which solves human [communication problems](https://youtu.be/5DtnB2MKMkg?t=163), and shields from buggy code getting merged with enabling **Continuos Integration**
+- **I'm most excited** about: [Alice | Shield](https://github.com/p00j4/alice) - A bot which solves human [communication problems](https://youtu.be/5DtnB2MKMkg?t=163), and shields from buggy code getting merged with enabling **Continuos Integration**
 - **Medium:**  [@TechGirlPooja](https://medium.com/@TechGirlPooja) | **Twitter:** [TechGirlPooja](https://www.twitter.com/TechGirlPooja)
 - **YouTube:** [PoojaShahQAgirl](https://www.youtube.com/c/PoojaShahQAgirl/playlists)
 - **Web-site** [p00j4.github](p00j4.github.io)
